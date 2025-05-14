@@ -52,7 +52,7 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
-
+- Tile dataset from Roboflow - [mahjong-vtacs-mexax-xwwj](https://universe.roboflow.com/roboflow100vl-full/mahjong-vtacs-mexax-xwwj/dataset/2)
 - PyTorch for providing the deep learning framework.
 - OpenCV and PIL for image processing capabilities.
 - YOLO for the detection model framework.
