@@ -1,0 +1,39 @@
+train: train/images
+val: valid/images
+test: test/images
+
+names: 
+  0: bamboo_1
+  1: bamboo_2
+  2: bamboo_3
+  3: bamboo_4
+  4: bamboo_5
+  5: bamboo_6
+  6: bamboo_7
+  7: bamboo_8
+  8: bamboo_9
+  9: character_1
+  10: character_2
+  11: character_3
+  12: character_4
+  13: character_5
+  14: character_6
+  15: character_7
+  16: character_8
+  17: character_9
+  18: circle_1
+  19: circle_2
+  20: circle_3
+  21: circle_4
+  22: circle_5
+  23: circle_6
+  24: circle_7
+  25: circle_8
+  26: circle_9
+  27: east
+  28: green
+  29: north
+  30: red
+  31: south
+  32: west
+  33: white
